@@ -2,3 +2,6 @@
 
 -Giriş
 -Gelişme
+
+
+-Git & github denemeleri
